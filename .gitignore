@@ -1,7 +1,0 @@
-﻿.venv/
-dist/
-build/
-exports/
-__pycache__/
-*.pyc
-*.log
