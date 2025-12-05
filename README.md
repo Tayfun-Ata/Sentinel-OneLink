@@ -1,4 +1,4 @@
-# Vision Home Security - Civilian Edition
+# Sentinel_OneLink | Home Security Addition
 
 ## Project Structure
 - `vision_dashboard.py`: Universal dashboard app (Windows installer, point-and-click)
@@ -24,3 +24,4 @@
 
 ### Internal build notes (team only)
 - Use `installer/build_dashboard.ps1` to generate the Windows-ready executable via PyInstaller.
+
