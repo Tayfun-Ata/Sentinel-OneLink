@@ -22,6 +22,7 @@
 - No code editing or technical steps required
 - For support or upgrades, contact the developer
 
-### Internal build notes (team only)
+### Internal build notes
 - Use `installer/build_dashboard.ps1` to generate the Windows-ready executable via PyInstaller.
+
 
